@@ -1,1 +1,1 @@
-# Ignite-feed
+# Ignite Feed
