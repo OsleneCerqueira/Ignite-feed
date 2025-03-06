@@ -22,9 +22,6 @@
         </h2>
 </div>
 
----
-
----
 
 ## :information_source: Sobre
 
