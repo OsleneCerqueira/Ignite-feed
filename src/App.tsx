@@ -21,7 +21,7 @@ const posts: PostType[] = [
 
       { type: 'link', content: 'jane.design/doctorcare' }
     ],
-    publishedAt: new Date('2025-03-04 20:00:00'),
+    publishedAt: new Date('2025-03-06 20:00:00'),
   },
   {
     id: 2,
