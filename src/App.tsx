@@ -10,9 +10,9 @@ const posts: PostType[] = [
   {
     id: 1,
     author: {
-      avatarUrl: 'https://github.com/oslenecerqueira.png',
-      name: 'Oslene Cerqueira',
-      role: 'Estudante'
+      avatarUrl: 'https://github.com/diego3g.png',
+      name: 'Diego Fernandes',
+      role: 'Educator @Rocketseat'
     },
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋' },
@@ -26,16 +26,16 @@ const posts: PostType[] = [
   {
     id: 2,
     author: {
-      avatarUrl: 'https://github.com/diego3g.png',
-      name: 'Diego',
-      role: 'Educator @Rocketseat'
+      avatarUrl: 'https://github.com/carlosalbertoestrela.png',
+      name: 'Carlos Alberto',
+      role: 'Estudante'
     },
     content: [
         { type: 'paragraph', content: 'Oi, pessoal! 👋' },
       
         { type: 'paragraph', content: 'Recentemente, terminei um novo projeto que estou muito animado para compartilhar. Durante o NLW Return da Rocketseat, desenvolvi o DoctorCare, uma plataforma incrível voltada para cuidados médicos. Se você está curioso, dê uma olhada!' },
       
-        { type: 'link', content: 'https://diego.design/doctorcare' }
+        { type: 'link', content: 'https://carlos.design/doctorcare' }
       ],      
     publishedAt: new Date('2025-03-05 20:00:00'),
   }
